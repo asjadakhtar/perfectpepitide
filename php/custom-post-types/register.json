@@ -1,0 +1,28 @@
+[
+    {
+        "post_type": "testimonials",
+        "slug": "testimonials",
+        "supports": ["title", "excerpt", "author", "thumbnail"],
+        "labels": {
+            "name": "Testimonials",
+            "add_new_item": "Add Testimonial",
+            "edit_item": "Edit Testimonial",
+            "all_items": "All Testimonials",
+            "singular_name": "Testimonial"
+        },
+        "menu_icon": "dashicons-admin-comments",
+        "has_featured_option": true,
+        "taxonomy": {
+            "name": "testimonial_category",
+            "labels": {
+                "name": "Testimonial Categories",
+                "singular_name": "Testimonial Category",
+                "menu_name": "Testimonials Categories",
+                "all_items": "All Testimonial Categories",
+                "add_new_item": "Add New Testimonial Category",
+                "edit_item": "Edit Testimonial Category",
+                "view_item": "View Testimonial Category"
+            }
+        }
+    }
+]

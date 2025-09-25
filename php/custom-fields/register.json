@@ -1,0 +1,184 @@
+[
+    {
+        "name": "hero",
+        "title": "Hero Section",
+        "description": "This is the first section of a webpage.",
+        "template": "hero",
+        "keywords": "hero, section, webpage, homepage"
+    },
+    {
+        "name": "banner",
+        "title": "Banner Section",
+        "description": "This is the banner section of a webpage.",
+        "template": "banner",
+        "keywords": "banner, section, webpage"
+    },
+    {
+        "name": "stories",
+        "title": "Stories Section",
+        "description": "This is the stories section of a webpage.",
+        "template": "stories",
+        "keywords": "stories, section, webpage"
+    },
+    {
+        "name": "collections",
+        "title": "Collections Section",
+        "description": "This is the collections section of a webpage.",
+        "template": "collections",
+        "keywords": "collections, section, webpage"
+    },
+    {
+        "name": "process",
+        "title": "Process Section",
+        "description": "This is the process section of a webpage.",
+        "template": "process",
+        "keywords": "process, section, webpage"
+    },
+    {
+        "name": "collection-stories",
+        "title": "Collection Stories Section",
+        "description": "This is the collection-stories section of a webpage.",
+        "template": "collection-stories",
+        "keywords": "collection-stories, section, webpage"
+    },
+    {
+        "name": "testimonials",
+        "title": "Testimonials Section",
+        "description": "This is the testimonials section of a webpage.",
+        "template": "testimonials",
+        "keywords": "testimonials, section, webpage"
+    },
+    {
+        "name": "quote",
+        "title": "Quote Section",
+        "description": "This is the quote section of a webpage.",
+        "template": "quote",
+        "keywords": "quote, section, webpage"
+    },
+    {
+        "name": "partners",
+        "title": "Partners Section",
+        "description": "This is the partners section of a webpage.",
+        "template": "partners",
+        "keywords": "partners, section, webpage"
+    },
+    {
+        "name": "consultaion",
+        "title": "Consultaion Section",
+        "description": "This is the consultaion section of a webpage.",
+        "template": "consultaion",
+        "keywords": "consultaion, section, webpage"
+    },
+    {
+        "name": "bridal-story",
+        "title": "Bridal Story Section",
+        "description": "This is the bridal-story section of a webpage.",
+        "template": "bridal-story",
+        "keywords": "bridal-story, section, webpage"
+    },
+    {
+        "name": "about",
+        "title": "About Section",
+        "description": "This is the about section of a webpage.",
+        "template": "about",
+        "keywords": "about, section, webpage"
+    },
+    {
+        "name": "journey",
+        "title": "Journey Section",
+        "description": "This is the journey section of a webpage.",
+        "template": "journey",
+        "keywords": "journey, section, webpage"
+    },
+    {
+        "name": "designer",
+        "title": "Designer Section",
+        "description": "This is the designer section of a webpage.",
+        "template": "designer",
+        "keywords": "designer, section, webpage"
+    },
+    {
+        "name": "main-collection",
+        "title": "Main Collection Section",
+        "description": "This is the main-collection section of a webpage.",
+        "template": "main-collection",
+        "keywords": "main-collection, section, webpage"
+    },
+    {
+        "name": "book-appointment",
+        "title": "Book Appointment Section",
+        "description": "This is the book-appointment section of a webpage.",
+        "template": "book-appointment",
+        "keywords": "book-appointment, section, webpage"
+    },
+    {
+        "name": "title",
+        "title": "Title Section",
+        "description": "This is the title section of a webpage.",
+        "template": "title",
+        "keywords": "title, section, webpage"
+    },
+    {
+        "name": "editor",
+        "title": "Editor Section",
+        "description": "This is the editor section of a webpage.",
+        "template": "editor",
+        "keywords": "editor, section, webpage"
+    },
+    {
+        "name": "legal",
+        "title": "Legal Section",
+        "description": "This is the legal section of a webpage.",
+        "template": "legal",
+        "keywords": "legal, section, webpage"
+    },
+    {
+        "name": "text-img",
+        "title": "Text Image Section",
+        "description": "This is the text with image section of a webpage.",
+        "template": "text-img",
+        "keywords": "text, img, image, section, webpage"
+    },
+    {
+        "name": "text-img-reverse",
+        "title": "Text Image Reverse Section",
+        "description": "This is the text with image Reverse section of a webpage.",
+        "template": "text-img-reverse",
+        "keywords": "text, img, image, reverse, section, webpage"
+    },
+    {
+        "name": "badge",
+        "title": "Badge Section",
+        "description": "This is the badge section of a webpage.",
+        "template": "badge",
+        "keywords": "Badge, section, webpage"
+    },
+    {
+        "name": "form",
+        "title": "Form Section",
+        "description": "This is the form section of a webpage.",
+        "template": "form",
+        "keywords": "form, section, webpage"
+    },
+    {
+        "name": "contact",
+        "title": "Contact Section",
+        "description": "This is the contact section of a webpage.",
+        "template": "contact",
+        "keywords": "contact, section, webpage"
+    },
+    {
+        "name": "blog",
+        "title": "Blog Section",
+        "description": "This is the blog section of a webpage.",
+        "template": "blog",
+        "keywords": "blog, section, webpage"
+    },
+    {
+        "name": "instagram",
+        "title": "Instagram Section",
+        "description": "This is the Instagram section of a webpage.",
+        "template": "instagram",
+        "keywords": "instagram, section, webpage"
+    }
+]
